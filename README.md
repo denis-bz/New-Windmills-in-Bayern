@@ -1,7 +1,7 @@
 ### An interactive map of new windmills in Bayern
 
 Go to https://denis-bz.github.io/New-Windmills-in-Bayern
-for map of new windmills (wind turbines) in Bayern, running since 2024 or planned.
+for a map of new windmills (wind turbines) in Bayern, running since 2024 or planned.
 The data is from
 https://www.marktstammdatenregister.de/MaStR  Gesamtdatenexport_20250601_25.1.zip . \
 The summary file `BY-2024.csv` below has 1 line for each windmill, like
