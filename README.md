@@ -1,10 +1,13 @@
-### An interactive map of new windmills in Bayern
+### Interactive maps of new windmills in Bayern and Deutschland
 
-For a map of new windmills (wind turbines) in Bayern, running since 2024 or planned, go to
-https://denis-bz.github.io/New-Windmills-in-Bayern/ \
+For maps of new windmills (wind turbines) in Bayern and Deutschland,
+running since 2024 or planned, go to \
+https://denis-bz.github.io/New-Windmills-in-Bayern/ or \
+https://denis-bz.github.io/New-Windmills-in-Bayern/newwindmills-DE.html \
 The data is from
 https://www.marktstammdatenregister.de/MaStR  Gesamtdatenexport_20250601_25.1.zip . \
-The summary file `newwindmills-BY.csv` below has 1 line for each windmill, like
+The summary files `newwindmills-BY.csv` and `newwindmills-DE.csv`
+below have 1 line for each windmill, like
 ```
 KW      Lon     Lat     Thi Rotor Date      Lkr     Place       Type
 6200    10.7416 49.4015 169 162 2024-11-21  Ansbach Dietenhofen V162-6.2
@@ -16,10 +19,6 @@ KW      Lon     Lat     Thi Rotor Date      Lkr     Place       Type
 These new windmills are BIG, around 250m:
 e.g. near Ansbach 169 turbine height `Thi` + 81m = `Rotor` diameter / 2.
 Look at some in your area.
-
-#### Coming soon
-A map of all Deutschland: https://denis-bz.github.io/New-Windmills-in-Bayern/newwindmills-DE.html \
-with `newwindmills-DE.csv`
 
 
 #### How profitable are windmills in Germany, from EEG tax money ?
