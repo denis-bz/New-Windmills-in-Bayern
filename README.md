@@ -17,8 +17,7 @@ KW      Lon     Lat     Thi Rotor Date      Lkr     Place       Type
 6000    9.69224 49.7339 162 175 2026-05-29  Würzburg    Neubrunn    E-175_EP5
 ```
 
-These new windmills are BIG, around 250m:
-e.g. near Ansbach 169 turbine height `Thi` + 81m = `Rotor` diameter / 2.
+These new windmills are BIG, e.g. 250m near Ansbach: 169 turbine height `Thi` + 81m = `Rotor` diameter / 2. \
 Look at some in your area.
 
 
