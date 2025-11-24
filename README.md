@@ -6,8 +6,9 @@ https://denis-bz.github.io/New-Windmills-in-Bayern/ or \
 https://denis-bz.github.io/New-Windmills-in-Bayern/newwindmills-DE.html \
 The data is from
 https://www.marktstammdatenregister.de/MaStR  Gesamtdatenexport_20250601_25.1.zip . \
-The summary files `newwindmills-BY.csv` and `newwindmills-DE.csv`
-below have 1 line for each windmill, like
+Summary files `newwindmills-BY.csv` and `newwindmills-DE.csv`
+unser https://github.com/denis-bz/New-Windmills-in-Bayern
+have 1 line for each windmill, like
 ```
 KW      Lon     Lat     Thi Rotor Date      Lkr     Place       Type
 6200    10.7416 49.4015 169 162 2024-11-21  Ansbach Dietenhofen V162-6.2
