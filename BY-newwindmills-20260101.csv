@@ -1,0 +1,383 @@
+# 333 new windmills in BY, running since 2024 or planned
+# from https://www.marktstammdatenregister.de/MaStR Gesamtdatenexport_20260101
+# written ~bz markt/new/newwindmills.py 2026-01-06 Jan 16:50 
+
+ AGS State   MW     Lat     Lon Thi Rotor       Date     Lkr                      Place            Type      
+9184    BY 5.56 47.9519 11.6891 167   160 2025-05-28 München                  Sauerlach    E-160_EP5_E3      
+9184    BY 5.56  47.938 11.7195 167   160 2025-07-07 München                      Aying    E-160_EP5_E3      
+9184    BY 5.56 48.0216 11.7651 167   160 2026-11-18 München Höhenkirchen-Siegertsbrunn    E-160_EP5_E3      
+9184    BY 5.56 48.0256 11.7646 167   160 2026-11-18 München Höhenkirchen-Siegertsbrunn    E-160_EP5_E3      
+9184    BY 5.56 48.0295  11.761 167   160 2026-11-18 München Höhenkirchen-Siegertsbrunn    E-160_EP5_E3      
+9184    BY 5.56 48.0341 11.4454 167   160 2026-12-15 München                    Neuried E-160_EP5_E3_R1      
+9184    BY 5.56 48.0418  11.447 167   160 2026-12-15 München                    Neuried E-160_EP5_E3_R1      
+9184    BY 5.56 48.0459 11.4402 167   160 2026-12-15 München                    Neuried E-160_EP5_E3_R1      
+9184    BY 5.56 48.0477 11.4607 167   160 2026-12-15 München                    Neuried E-160_EP5_E3_R1      
+9184    BY 5.56 48.0568 11.4414 167   160 2026-12-15 München                    Neuried E-160_EP5_E3_R1      
+9184    BY 5.56 48.0631 11.4421 167   160 2026-12-15 München                    Neuried E-160_EP5_E3_R1      
+9184    BY  7.2 48.0892  11.724 175   172 2027-10-01 München                  Grasbrunn     Vestas_V172      
+9184    BY  7.2 48.0894   11.73 175   172 2027-10-01 München                  Grasbrunn     Vestas_V172      
+9184    BY  7.2 48.0928 11.7366 175   172 2027-10-01 München                  Grasbrunn     Vestas_V172      
+9184    BY    6 48.0313 11.7764 162   175 2028-10-01 München Höhenkirchen-Siegertsbrunn    E-175_EP5_E1      
+9184    BY    6 48.0359 11.7758 162   175 2028-10-01 München Höhenkirchen-Siegertsbrunn   E-175_EP_5_E1      
+9184    BY    6 48.0396 11.7714 162   175 2028-10-01 München Höhenkirchen-Siegertsbrunn   E-175_EP_5_E1      
+
+9175	BY	5.56	48.0673	12.0262	167	160	2026-11-30	Ebersberg	Ebersberg	E-160EP5_E3
+9175	BY	4.26	48.0472	11.9123	167	138	2025-02-06	Ebersberg	Moosach	E-138_EP3_E3
+
+9178	BY	7.2	48.4488	11.5712	175	172	2028-09-01	Freising	Allershausen	V172-7.2_MW
+9178	BY	7	48.3904	11.5134	174	175	2027-07-02	Freising	Fahrenzhausen	E-175_EP5_E2
+9178	BY	7	48.4022	11.5581	174	175	2027-10-31	Freising	Kranzberg	E-175_EP5_E2
+9178	BY	7	48.4408	11.5026	174	175	2027-12-01	Freising	Hohenkammer	E-175_EP5_E2
+9178	BY	7	48.4364	11.4965	174	175	2027-12-01	Freising	Hohenkammer	E-175_EP5_E2
+9178	BY	6	48.5488	11.7855	162	175	2026-06-30	Freising	Nandlstadt	E175_EP5-HT-162-ES-C-01
+9178	BY	6	48.552	11.7806	162	175	2026-06-30	Freising	Nandlstadt	E175_EP5-HT-162-ES-C-01
+
+9179	BY	7.2	48.2291	11.1802	175	172	2026-08-31	Fürstenfeldbruck	Egenhofen	VESTAS_V172-7.2MW
+9179	BY	6	48.2137	11.1958	162	175	2028-06-30	Fürstenfeldbruck	Maisach	E-175_EP5
+9179	BY	6	48.196	11.1787	162	175	2028-06-30	Fürstenfeldbruck	Mammendorf	E-175_EP5
+9179	BY	6	48.1947	11.165	162	175	2028-06-30	Fürstenfeldbruck	Mammendorf	E-175_EP5
+9179	BY	6	48.193	11.1898	162	175	2028-06-30	Fürstenfeldbruck	Mammendorf	E-175_EP5
+9179	BY	6	48.2013	11.1937	162	175	2028-06-30	Fürstenfeldbruck	Maisach	E-175_EP5
+9179	BY	5.56	48.1418	11.1341	167	160	2028-07-19	Fürstenfeldbruck	Jesenwang	E-160_EP5_E3_R1
+9179	BY	5.56	48.1478	11.1294	167	160	2028-07-17	Fürstenfeldbruck	Jesenwang	E-160_EP5_E3_R1
+9179	BY	5.56	48.2601	11.2359	167	160	2028-04-01	Fürstenfeldbruck	Maisach	E-160_EP5_E3_R1
+9179	BY	5.56	48.1449	11.1265	167	160	2028-07-20	Fürstenfeldbruck	Jesenwang	E-160_EP5_E3_R1
+9179	BY	5.56	48.2624	11.2304	167	160	2027-08-09	Fürstenfeldbruck	Maisach	E-160_EP5_E3_R1
+9179	BY	5.56	48.143	11.1208	160	160	2028-07-18	Fürstenfeldbruck	Jesenwang	E-160_EP5_E3_R1
+
+
+9371	BY	4.26	49.5114	11.9894	160	138	2027-12-31	Amberg-Sulzbach	Hirschau	nan
+
+9571	BY	6.2	49.4077	10.7404	169	162	2024-11-22	Ansbach	Dietenhofen	V162-6.2
+9571	BY	6.2	49.4015	10.7416	169	162	2024-11-21	Ansbach	Dietenhofen	V162-6.2
+9571	BY	6	49.3118	10.4428	162	175	2028-02-01	Ansbach	Leutershausen	E-175_EP5_E1
+9571	BY	5.56	49.2427	10.6419	140	160	2028-06-30	Ansbach	Lichtenau	nan
+9571	BY	5.56	49.2459	10.6429	140	160	2028-06-30	Ansbach	Lichtenau	nan
+9571	BY	5.56	49.3198	10.451	120	160	2028-02-01	Ansbach	Leutershausen	E-160_EP5_E3_R1
+9571	BY	5.56	49.3284	10.1348	120	160	2026-03-30	Ansbach	Insingen	E-160
+9561	BY	3.5	49.3393	10.5476	132	137	2027-09-01	Ansbach	Ansbach	VE-136
+9571	BY	3.5	49.0162	10.4803	135	136	2026-02-27	Ansbach	Weiltingen	Vensys_136
+9571	BY	3.5	49.0122	10.4848	135	136	2026-02-27	Ansbach	Weiltingen	Vensys_136
+
+9772	BY	6.8	48.5763	10.7708	179	175	2028-04-15	Augsburg	Kühlenthal	N175
+9772	BY	6.8	48.5913	10.7792	179	175	2028-04-15	Augsburg	Ehingen	N175
+9772	BY	6.8	48.5857	10.7753	179	175	2028-04-15	Augsburg	Ehingen	N175
+
+9672	BY	7.2	50.1307	9.77791	175	172	2027-11-30	Bad_Kissingen	Wartmannsroth	V172-7.2MW_NH_175_m
+9672	BY	7.2	50.1357	9.77241	175	172	2027-11-30	Bad_Kissingen	Wartmannsroth	V172-7.2MW_NH_175m
+9672	BY	7.2	50.1323	9.77298	175	172	2027-11-30	Bad_Kissingen	Wartmannsroth	V172-7.2MW_NH_175_m
+
+9471	BY	7.2	49.8017	10.7139	175	172	2028-07-31	Bamberg	Burgebrach	V172_7.2MW
+9471	BY	7.2	49.8592	11.0737	175	172	2026-12-20	Bamberg	Buttenheim	V172
+9471	BY	7.2	49.8493	10.7567	175	172	2028-07-31	Bamberg	Burgebrach	V172_7.2MW
+9471	BY	7.2	49.8609	11.0795	175	172	2026-12-20	Bamberg	Buttenheim	V172
+9471	BY	7.2	49.8532	10.7652	175	172	2028-07-31	Bamberg	Burgebrach	V172_7.2MW
+9471	BY	7.2	49.8593	11.0851	175	172	2027-11-02	Bamberg	Buttenheim	V172
+9471	BY	7.2	49.808	10.7161	175	172	2028-07-31	Bamberg	Burgebrach	V172_7.2MW
+9471	BY	6.8	49.8563	10.7508	179	175	2026-06-30	Bamberg	Burgebrach	N175-6.8
+9471	BY	6.8	49.8651	10.7443	179	175	2026-06-30	Bamberg	Burgebrach	N175-6.8
+9471	BY	6.8	49.8654	10.7548	179	175	2026-06-30	Bamberg	Walsdorf	N175-6.8
+9471	BY	6.8	49.8576	10.7668	179	175	2026-06-30	Bamberg	Walsdorf	N175-6.8
+9471	BY	6.8	49.8605	10.7484	179	175	2026-06-30	Bamberg	Burgebrach	N175-6.8
+9471	BY	6.8	49.8615	10.7613	179	175	2026-06-30	Bamberg	Walsdorf	N175-6.8
+9471	BY	6.8	49.8514	10.7499	179	175	2026-06-30	Bamberg	Burgebrach	N175-6.8
+9471	BY	6	49.9214	11.0952	162	175	2026-12-30	Bamberg	Litzendorf	E-175_EP5
+
+9472	BY	7.2	49.7891	11.6105	199	172	2027-12-01	Bayreuth	Schnabelwaid	V172,_7,2_MW
+9472	BY	7.2	49.7868	11.622	199	172	2027-12-01	Bayreuth	Schnabelwaid	V172,_7,2_MW
+9472	BY	7.2	49.7909	11.6235	199	172	2027-12-01	Bayreuth	Schnabelwaid	V172,_7,2_MW
+9472	BY	7.2	49.7951	11.6256	199	172	2027-12-01	Bayreuth	Schnabelwaid	V172,_7,2_MW
+9472	BY	7.2	49.7991	11.6278	199	172	2027-12-01	Bayreuth	Schnabelwaid	V172,_7,2_MW
+9472	BY	7.2	49.7976	11.636	199	172	2027-12-01	Bayreuth	Schnabelwaid	V172,_7,2_MW
+9472	BY	7.2	49.7932	11.6335	199	172	2027-12-01	Bayreuth	Schnabelwaid	V172,_7,2_MW
+9472	BY	7.2	49.7895	11.6407	199	172	2027-12-01	Bayreuth	Schnabelwaid	V172,_7,2_MW
+9472	BY	7.2	49.7851	11.6409	199	172	2027-12-01	Bayreuth	Schnabelwaid	V172,_7,2_MW
+9472	BY	7.2	49.7827	11.6199	199	172	2027-12-01	Bayreuth	Schnabelwaid	V172,_7,2_MW
+9472	BY	7.2	49.8386	11.6638	175	172	2027-12-31	Bayreuth	Creußen	Vestas_V172-7,2MW
+9472	BY	7.2	49.8345	11.6584	175	172	2027-12-31	Bayreuth	Creußen	Vestas_V172-7,2MW
+9472	BY	7.2	49.7808	11.6413	199	172	2027-12-01	Bayreuth	Schnabelwaid	V172,_7,2_MW
+9472	BY	6	49.6972	11.4588	162	175	2027-12-31	Bayreuth	Betzenstein	E-175_EP5
+9472	BY	6	49.686	11.4723	162	175	2027-12-31	Bayreuth	Betzenstein	E-175_EP5
+9472	BY	6	49.6817	11.4705	162	175	2027-12-31	Bayreuth	Betzenstein	E-175_EP5
+9472	BY	6	49.6964	11.4706	162	175	2027-12-31	Bayreuth	Betzenstein	E-175_EP5
+9472	BY	6	49.6812	11.4608	162	175	2027-12-31	Bayreuth	Betzenstein	E-175_EP5
+9472	BY	6	49.6852	11.4582	162	175	2027-12-31	Bayreuth	Betzenstein	E-175_EP5
+9472	BY	6	49.6789	11.4788	162	175	2027-12-31	Bayreuth	Betzenstein	E-175_EP5
+9472	BY	6	49.6917	11.4721	162	175	2027-12-31	Bayreuth	Betzenstein	E-175_EP5
+9472	BY	6	49.6912	11.4611	162	175	2027-12-31	Bayreuth	Betzenstein	E-175_EP5
+9472	BY	6	49.6881	11.4865	162	175	2027-12-31	Bayreuth	Betzenstein	E-175_EP5
+9472	BY	6	49.7035	11.471	162	175	2027-12-31	Bayreuth	Betzenstein	E-175_EP5
+9472	BY	5.56	49.8753	11.5242	167	160	2026-02-01	Bayreuth	Gesees	E-160_EP5_E3_R1
+
+9473	BY	7.2	50.3689	10.9249	175	172	2026-06-08	Coburg	Lautertal	V_172__7,2MW
+9473	BY	7.2	50.365	10.9278	175	172	2026-06-08	Coburg	Lautertal	V_172__7,2MW
+9473	BY	7.2	50.3611	10.9294	175	172	2026-06-08	Coburg	Lautertal	V_172__7,2MW
+9473	BY	6.8	50.2933	10.8545	179	175	2028-08-01	Coburg	Bad_Rodach	N175_6,8_MW
+9473	BY	6.8	50.2895	10.8578	179	175	2028-08-01	Coburg	Bad_Rodach	N175_6,8_MW
+9473	BY	6.8	50.2977	10.8521	179	175	2028-08-01	Coburg	Bad_Rodach	N175_6,8_MW
+9473	BY	6.8	50.2996	10.8435	179	175	2028-08-01	Coburg	Bad_Rodach	N175_6,8_MW
+
+9174	BY	7.2	48.3359	11.5129	175	172	2026-08-03	Dachau	Haimhausen	VESTAS_V172-7.2MW
+9174	BY	7.2	48.3267	11.5099	175	172	2026-08-03	Dachau	Haimhausen	VESTAS_V172-7.2MW
+9174	BY	7.2	48.3349	11.5028	175	172	2026-08-03	Dachau	Röhrmoos	VESTAS_V172-7.2MW
+9174	BY	7.2	48.3311	11.5109	175	172	2026-08-03	Dachau	Haimhausen	VESTAS_V172-7.2MW
+9174	BY	4.26	48.2772	11.1212	160	138	2028-03-15	Dachau	Pfaffenhofen	E-138_EP3_E3
+9174	BY	4.26	48.3218	11.1434	131	138	2028-02-01	Dachau	Pfaffenhofen	E-138_EP3_E3
+9174	BY	4.26	48.2925	11.1149	131	138	2028-03-01	Dachau	Pfaffenhofen	E-138_EP3_E3
+9174	BY	4.26	48.3178	11.1363	160	138	2028-02-15	Dachau	Pfaffenhofen	E-138_EP3_E3
+
+9773	BY	7	48.4895	10.5468	174	175	2028-08-01	Dillingen_a.d._Donau	Holzheim	E175
+9773	BY	7	48.4912	10.5412	174	175	2028-08-01	Dillingen_a.d._Donau	Holzheim	E175
+9773	BY	7	48.4962	10.5323	174	175	2028-08-01	Dillingen_a.d._Donau	Holzheim	E175
+9773	BY	7	48.4861	10.5465	174	175	2028-06-01	Dillingen_a.d._Donau	Holzheim	E175
+9773	BY	6.8	48.5783	10.7644	179	175	2028-04-15	Dillingen_a.d._Donau	Buttenwiesen	N175
+
+9279	BY	6	48.7532	12.5232	162	175	2026-12-30	Dingolfing-Landau	Mengkofen	E-175_EP5_E1
+9279	BY	5.56	48.5417	12.5588	167	160	2026-08-01	Dingolfing-Landau	Marklkofen	E-160_EP5_E3_R1
+
+9779	BY	7.2	48.5914	10.9227	175	172	2026-04-30	Donau-Ries	Münster	V_172__7,2MW
+9779	BY	7.2	48.586	10.9194	175	172	2026-04-30	Donau-Ries	Münster	V_172__7,2MW
+9779	BY	7.2	48.6048	10.9228	175	172	2026-04-30	Donau-Ries	Holzheim	V_172__7,2MW
+9779	BY	7.2	48.6008	10.9253	175	172	2026-04-30	Donau-Ries	Holzheim	V_172__7,2MW
+9779	BY	7.2	48.596	10.9238	175	172	2026-04-30	Donau-Ries	Münster	V_172__7,2MW
+
+9176	BY	6	48.9479	11.2543	162	175	2026-06-30	Eichstätt	Walting	E-175_EP5-HT-162-ESC-_01
+
+9562	BY	5.56	49.5394	10.939	140	160	2028-03-31	Erlangen	Erlangen	Enercon_E_160_EP5
+9562	BY	5.56	49.5451	10.9464	140	160	2028-03-31	Erlangen	Erlangen	Enercon_E_160_EP5
+9562	BY	5.56	49.5477	10.9415	140	160	2028-03-31	Erlangen	Erlangen	Enercon_E_160_EP5
+
+9572	BY	7.2	49.6338	10.7851	175	172	2026-01-01	Erlangen-Höchstadt	Weisendorf	V172-7.2
+9572	BY	7.2	49.629	10.7857	175	172	2026-01-01	Erlangen-Höchstadt	Weisendorf	V172-7.2
+9572	BY	7.2	49.6047	10.7915	175	172	2027-12-31	Erlangen-Höchstadt	Weisendorf	V172-7.2
+9572	BY	7.2	49.6053	10.8015	175	172	2027-12-31	Erlangen-Höchstadt	Weisendorf	V172-7.2
+9572	BY	7.2	49.627	10.7741	175	172	2026-01-01	Erlangen-Höchstadt	Weisendorf	V172-7.2
+9572	BY	7	49.5425	10.8522	162	175	2026-12-01	Erlangen-Höchstadt	Herzogenaurach	Enercon_E175_EP5_E2
+9572	BY	7	49.5384	10.8431	162	175	2026-12-01	Erlangen-Höchstadt	Herzogenaurach	Enercon_E175_EP5_E2
+9572	BY	6.8	49.7677	10.7378	179	175	2027-12-31	Erlangen-Höchstadt	Mühlhausen	N-175_6.8
+9572	BY	6.8	49.7123	10.7563	179	175	2028-06-30	Erlangen-Höchstadt	Lonnerstadt	N175-6.8
+9572	BY	6.8	49.717	10.7563	179	175	2028-06-30	Erlangen-Höchstadt	Lonnerstadt	N175-6.8
+9572	BY	6.8	49.7264	10.7414	179	175	2028-06-30	Erlangen-Höchstadt	Lonnerstadt	N175-6.8
+9572	BY	6.8	49.7303	10.7466	179	175	2028-06-30	Erlangen-Höchstadt	Wachenroth	N175-6.8
+9572	BY	6.8	49.7227	10.7755	179	175	2028-06-30	Erlangen-Höchstadt	Höchstadt	N175-6.8
+9572	BY	6.8	49.7687	10.7621	179	175	2027-12-31	Erlangen-Höchstadt	Mühlhausen	N-175_6.8
+9572	BY	6.8	49.7186	10.7759	179	175	2028-06-30	Erlangen-Höchstadt	Höchstadt	N175-6.8
+9572	BY	6	49.5496	10.93	162	175	2028-03-31	Erlangen-Höchstadt	Herzogenaurach	Enercon_E_175_EP5
+9572	BY	6	49.5457	10.9218	162	175	2028-03-31	Erlangen-Höchstadt	Herzogenaurach	Enercon_E_175_EP5
+9572	BY	5.56	49.543	10.9278	140	160	2028-03-31	Erlangen-Höchstadt	Herzogenaurach	Enercon_E_160_EP5
+
+9573	BY	6	49.5438	10.9062	162	175	2028-03-31	Fürth	Obermichelbach	Enercon_E_175_EP5
+9573	BY	6	49.548	10.9088	162	175	2028-03-31	Fürth	Obermichelbach	Enercon_E_175_EP5
+
+9774	BY	6	48.3964	10.5357	162	175	2027-12-01	Günzburg	Jettingen-Scheppach	nan
+9774	BY	6	48.3975	10.5471	162	175	2027-12-01	Günzburg	Jettingen-Scheppach	nan
+
+9674	BY	5.56	50.1049	10.8357	160	160	2025-06-24	Haßberge	Untermerzbach	E_160
+
+9273	BY	7	49.0103	11.7225	164	163	2027-12-01	Kelheim	Riedenburg	N163/6.x
+9273	BY	7	49.0051	11.7234	164	163	2027-12-01	Kelheim	Riedenburg	N163/6.x
+9273	BY	7	49.0093	11.7061	164	163	2027-12-01	Kelheim	Riedenburg	N163/6.x
+9273	BY	7	49.0133	11.712	164	163	2027-12-01	Kelheim	Riedenburg	N163/6.x
+9273	BY	4.26	48.8626	11.8059	110	138	2024-12-31	Kelheim	Kelheim	E-138-EP3_E3
+
+9675	BY	7.2	49.7882	10.1206	175	172	2026-01-01	Kitzingen	Dettelbach	V172-7.2
+9675	BY	7.2	49.7904	10.1321	175	172	2026-01-01	Kitzingen	Dettelbach	V172-7.2
+9675	BY	7.2	49.7964	10.1335	175	172	2026-01-01	Kitzingen	Dettelbach	V172-7.2
+9675	BY	7.2	49.7927	10.1248	175	172	2026-01-01	Kitzingen	Dettelbach	V172-7.2
+
+9476	BY	7	50.4627	11.3113	162	175	2027-09-01	Kronach	Steinbach	E-175_EP_5
+9476	BY	7	50.4561	11.3447	162	175	2027-09-01	Kronach	Ludwigsstadt	E-175_EP_5
+9476	BY	7	50.4655	11.3475	162	175	2027-09-01	Kronach	Ludwigsstadt	E-175_EP_5
+9476	BY	7	50.4689	11.34	162	175	2027-09-01	Kronach	Ludwigsstadt	E-175_EP_5
+9476	BY	7	50.4542	11.3525	162	175	2027-09-01	Kronach	Ludwigsstadt	E-175_EP_5
+9476	BY	7	50.465	11.3561	162	175	2027-09-01	Kronach	Ludwigsstadt	E-175_EP_5
+9476	BY	7	50.4586	11.3274	162	175	2027-09-01	Kronach	Steinbach	E-175_EP_5
+9476	BY	7	50.4656	11.3227	162	175	2027-09-01	Kronach	Steinbach	E-175_EP_5
+9476	BY	7	50.4838	11.309	162	175	2027-09-01	Kronach	Ludwigsstadt	E-175_EP_5
+9476	BY	7	50.4575	11.3647	162	175	2027-09-01	Kronach	Ludwigsstadt	E-175_EP_5
+9476	BY	7	50.4814	11.3217	162	175	2027-09-01	Kronach	Ludwigsstadt	E-175_EP_5
+9476	BY	7	50.4783	11.3157	162	175	2027-09-01	Kronach	Ludwigsstadt	E-175_EP_5
+9476	BY	7	50.453	11.3621	162	175	2027-09-01	Kronach	Ludwigsstadt	E-175_EP_5
+9476	BY	7	50.4622	11.3663	162	175	2027-09-01	Kronach	Ludwigsstadt	E-175_EP_5
+9476	BY	7	50.4742	11.3294	162	175	2027-09-01	Kronach	Ludwigsstadt	E-175_EP_5
+9476	BY	6.8	50.1849	11.4317	179	175	2026-12-31	Kronach	Weißenbrunn	Nordex_N175/6.X
+9476	BY	6.8	50.1864	11.4245	179	175	2026-12-31	Kronach	Weißenbrunn	Nordex_N175/6.X
+9476	BY	6.8	50.195	11.4212	179	175	2026-12-31	Kronach	Weißenbrunn	Nordex_N175/6.X
+9476	BY	6.8	50.1913	11.4255	179	175	2026-12-31	Kronach	Weißenbrunn	Nordex_N175/6.X
+9476	BY	6.8	50.1825	11.4254	179	175	2026-12-31	Kronach	Weißenbrunn	Nordex_N175/6.X
+
+9181	BY	5.56	47.8948	10.8015	167	160	2024-03-13	Landsberg_am_Lech	Fuchstal	E-160_EP5_E3
+9181	BY	5.56	47.8908	10.8004	167	160	2024-04-11	Landsberg_am_Lech	Fuchstal	E-160_EP5_E3
+9181	BY	5.56	47.886	10.8001	167	160	2024-02-29	Landsberg_am_Lech	Fuchstal	E-160_EP5_E3
+
+9677	BY	7.2	49.8966	9.89877	175	172	2027-09-01	Main-Spessart	Retzstadt	Vestas_V172
+9677	BY	7.2	49.8969	9.88471	175	172	2027-09-01	Main-Spessart	Retzstadt	Vestas_V172
+9677	BY	7.2	49.8982	9.89205	175	172	2027-10-01	Main-Spessart	Retzstadt	Vestas_V172
+9677	BY	7.2	50.016	9.91487	175	172	2026-11-30	Main-Spessart	Eußenheim	V172-7.2MW_NH_175m
+9677	BY	7.2	50.0122	9.91339	175	172	2026-11-30	Main-Spessart	Eußenheim	V172-7.2MW_NH_175m
+9677	BY	7.2	50.0143	9.9055	175	172	2026-11-30	Main-Spessart	Eußenheim	V172-7.2MW_NH_175m
+9677	BY	7	49.8242	9.67034	164	163	2027-11-07	Main-Spessart	Erlenbach	N163/6.X
+9677	BY	7	49.8228	9.67503	164	163	2027-11-07	Main-Spessart	Erlenbach	N163/6.X
+9677	BY	6.2	49.8918	9.88763	169	162	2027-09-01	Main-Spessart	Retzstadt	Vestas_V162
+
+9182	BY	5.56	47.9374	11.697	167	160	2025-07-18	Miesbach	Otterfing	E-160_EP5_E3
+
+9676	BY	6.2	49.7593	9.12973	169	162	2028-09-18	Miltenberg	Wörth	V_162-6.2
+9676	BY	6.2	49.7632	9.12094	169	162	2028-09-18	Miltenberg	Wörth	V162_-_6.2
+9676	BY	6.2	49.7752	9.13954	169	162	2028-09-18	Miltenberg	Wörth	V162_-_6.2
+9676	BY	6.2	49.7568	9.1254	169	162	2028-09-18	Miltenberg	Wörth	V_162-6.2
+9676	BY	6.2	49.771	9.12652	169	162	2028-09-18	Miltenberg	Wörth	V162_-_6.2
+
+9183	BY	6	48.1278	12.4089	162	175	2027-12-31	Mühldorf_a._Inn	Taufkirchen	E-175_EP5
+9183	BY	6	48.134	12.42	162	175	2027-12-31	Mühldorf_a._Inn	Taufkirchen	E-175_EP5
+9183	BY	6	48.1385	12.4217	162	175	2027-12-31	Mühldorf_a._Inn	Taufkirchen	E-175_EP5
+9183	BY	6	48.1227	12.4012	162	175	2027-12-31	Mühldorf_a._Inn	Taufkirchen	E-175_EP5
+9183	BY	6	48.1301	12.4154	162	175	2027-12-31	Mühldorf_a._Inn	Taufkirchen	E-175_EP5
+
+9185	BY	5.7	48.5509	11.141	164	163	2026-12-01	Neuburg-Schrobenhausen	Schrobenhausen	N163_/_5.X
+9185	BY	5.7	48.5501	11.1509	164	163	2026-12-01	Neuburg-Schrobenhausen	Schrobenhausen	N163_/_5.X
+9185	BY	5.7	48.555	11.1469	164	163	2026-12-01	Neuburg-Schrobenhausen	Schrobenhausen	N163_/_5.X
+
+9373	BY	7.2	49.3424	11.6262	175	172	2027-10-31	Neumarkt_i.d._OPf.	Lauterhofen	EnVentus_V172-7.2_MW
+9373	BY	7.2	49.2125	11.4881	199	172	2027-05-31	Neumarkt_i.d._OPf.	Sengenthal	V172
+9373	BY	6.8	49.2863	11.3835	179	175	2027-12-01	Neumarkt_i.d._OPf.	Berngau	Nordex_N175/6.X
+9373	BY	6.8	49.2711	11.4158	179	175	2027-12-01	Neumarkt_i.d._OPf.	Berngau	Nordex_N175/6.X
+9373	BY	6.8	49.2742	11.4086	179	175	2027-12-01	Neumarkt_i.d._OPf.	Berngau	Nordex_N175/6.X
+9373	BY	6.8	49.2701	11.4037	179	175	2027-12-01	Neumarkt_i.d._OPf.	Berngau	Nordex_N175/6.X
+9373	BY	4.2	49.4263	11.4576	149	136	2025-12-31	Neumarkt_i.d._OPf.	Lauterhofen	V136-4.2
+
+9575	BY	7.2	49.7434	10.5855	175	172	2027-12-31	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach	nan
+9575	BY	7.2	49.7477	10.5841	175	172	2027-12-31	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach	nan
+9575	BY	7	49.65	10.5185	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Baudenbach	E-175_EP5_HT-174,50
+9575	BY	7	49.6651	10.5138	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Markt_Taschendorf	E-175_EP5_HT-174,50
+9575	BY	7	49.6458	10.5208	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Baudenbach	E-175_EP5_HT-174,50
+9575	BY	7	49.6567	10.525	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Scheinfeld	E-175_EP5_HT-174,50
+9575	BY	7	49.6406	10.5332	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Baudenbach	E-175_EP5_HT-174,50
+9575	BY	7	49.6593	10.5106	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Scheinfeld	E-175_EP5_HT-174,50
+9575	BY	7	49.6414	10.5117	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Baudenbach	E-175_EP5_HT-174,50
+9575	BY	7	49.6459	10.5304	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Baudenbach	E-175_EP5_HT-174,50
+9575	BY	7	49.6372	10.5236	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Baudenbach	E-175_EP5_HT-174,50
+9575	BY	7	49.6546	10.5119	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Scheinfeld	E-175_EP5_HT-174,50
+9575	BY	6.8	49.7191	10.469	162	175	2028-11-19	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld	N175/6.X_mit_6,8_MW
+9575	BY	6.8	49.7293	10.4923	162	175	2028-11-19	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach	N175/6.X_mit_6,8_MW
+9575	BY	6.8	49.723	10.4839	162	175	2028-11-19	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld	N175/6.X_mit_6,8_MW
+9575	BY	6.8	49.7239	10.4723	162	175	2028-11-19	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach	N175/6.X_mit_6,8_MW
+9575	BY	6.8	49.7159	10.5663	179	175	2028-08-31	Neustadt_a.d._Aisch-Bad_Windsheim	Markt_Taschendorf	N175/6.X_mit_6,8_MW
+9575	BY	6.8	49.7166	10.5758	179	175	2028-08-31	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach	N175/6.X_mit_6,8_MW
+9575	BY	6.8	49.7122	10.5786	179	175	2028-08-31	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach	N175/6.X_mit_6,8_MW
+9575	BY	6.2	49.4391	10.6951	169	162	2024-11-20	Neustadt_a.d._Aisch-Bad_Windsheim	Neuhof	V162-6.2
+9575	BY	6.2	49.4345	10.6923	169	162	2024-11-25	Neustadt_a.d._Aisch-Bad_Windsheim	Neuhof	V162-6.2
+9575	BY	6	49.5726	10.6811	162	175	2027-06-30	Neustadt_a.d._Aisch-Bad_Windsheim	Neustadt	E175-6.0
+9575	BY	6	49.5689	10.6838	162	175	2027-06-30	Neustadt_a.d._Aisch-Bad_Windsheim	Emskirchen	E175-6.0
+9575	BY	6	49.5664	10.6904	162	175	2027-06-30	Neustadt_a.d._Aisch-Bad_Windsheim	Emskirchen	E175-6.0
+9575	BY	5.56	49.7287	10.4762	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld	E-160_EP5_E3
+9575	BY	5.56	49.7154	10.5507	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach	E-160_EP5_E3
+9575	BY	5.56	49.6777	10.4079	167	160	2028-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Scheinfeld	E-160_EP5_E3_R1
+9575	BY	5.56	49.6777	10.3986	167	160	2027-10-01	Neustadt_a.d._Aisch-Bad_Windsheim	Markt_Bibart	Enercon_E-160_EP5_E3
+9575	BY	5.56	49.7093	10.5659	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Markt_Taschendorf	E-160_EP5_E3
+9575	BY	5.56	49.7483	10.4391	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld	E-160_EP5_E3
+9575	BY	5.56	49.7422	10.4355	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld	E-160_EP5_E3
+9575	BY	5.56	49.6724	10.4213	167	160	2028-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Scheinfeld	E-160_EP5_E3_R1
+9575	BY	5.56	49.7373	10.4682	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld	E-160_EP5_E3
+9575	BY	5.56	49.7306	10.4663	166	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld	E-160_EP5_E3
+9575	BY	5.56	49.6681	10.4228	167	160	2027-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Scheinfeld	E-160_EP5_E3_R1
+9575	BY	5.56	49.7455	10.4483	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld	E-160_EP5_E3
+9575	BY	3.5	49.4871	10.6011	161	137	2025-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Trautskirchen	Vensys_VE136
+9575	BY	3.5	49.4915	10.6005	161	137	2025-11-30	Neustadt_a.d._Aisch-Bad_Windsheim	Markt_Erlbach	Vensys_VE136
+
+9374	BY	7.2	49.5587	12.3178	175	172	2027-05-31	Neustadt_a.d._Waldnaab	Tännesberg	V172
+9374	BY	7.2	49.5638	12.319	175	172	2027-05-31	Neustadt_a.d._Waldnaab	Tännesberg	V172
+9374	BY	7.2	49.5525	12.3195	175	172	2027-05-31	Neustadt_a.d._Waldnaab	Tännesberg	V172
+9374	BY	6.8	49.5808	12.2467	179	175	2028-09-30	Neustadt_a.d._Waldnaab	Leuchtenberg	N175_6,8MW
+9374	BY	6.8	49.583	12.2374	179	175	2028-09-30	Neustadt_a.d._Waldnaab	Leuchtenberg	N175_6,8MW
+
+9574	BY	6.2	49.4268	11.4659	169	162	2025-06-16	Nürnberger_Land	Happurg	V162
+9574	BY	6	49.4317	11.4602	169	162	2025-06-12	Nürnberger_Land	Happurg	V162
+
+9186	BY	5.56	48.5193	11.3264	160	160	2028-04-03	Pfaffenhofen_a.d._Ilm	Gerolsbach	E-160_EP5_E3_R1
+9186	BY	4.26	48.5484	11.3603	160	138	2028-04-01	Pfaffenhofen_a.d._Ilm	Hohenwart	E-138_EP3_E3
+9186	BY	4.2	48.532	11.5498	160	138	2024-12-24	Pfaffenhofen_a.d._Ilm	Pfaffenhofen	E-138
+9186	BY	4.2	48.5314	11.5551	160	138	2025-06-13	Pfaffenhofen_a.d._Ilm	Pfaffenhofen	E-138
+9186	BY	4.2	48.533	11.5592	160	138	2025-02-07	Pfaffenhofen_a.d._Ilm	Pfaffenhofen	E-138
+
+9673	BY	2.4	50.3441	10.3459	141	117	2026-09-01	Rhön-Grabfeld	Wülfershausen	N117/2400
+9673	BY	2.4	50.347	10.3383	141	117	2026-09-01	Rhön-Grabfeld	Hollstadt	N117/2400
+9673	BY	2.4	50.3551	10.3745	141	117	2026-09-01	Rhön-Grabfeld	Hollstadt	N117/2400
+
+9187	BY	5.56	47.9269	11.8758	167	160	2025-01-30	Rosenheim	Feldkirchen-Westerham	E-160EP5_E3
+
+9376	BY	7.2	49.2109	12.144	175	172	2028-06-30	Schwandorf	Nittenau	V172-7.2
+9376	BY	7.2	49.2104	12.1522	175	172	2028-06-30	Schwandorf	Nittenau	V172-7.2
+9376	BY	7.2	49.5352	12.2931	175	172	2027-12-31	Schwandorf	Trausnitz	V172
+9376	BY	7.2	49.526	12.2979	175	172	2027-12-31	Schwandorf	Trausnitz	V172
+9376	BY	7	49.5594	12.2316	164	163	2028-09-30	Schwandorf	Wernberg-Köblitz	N163_7.0_MW
+
+9678	BY	7.2	50.1361	10.3228	175	172	2028-03-01	Schweinfurt	Üchtelhausen	V172-7.2MW
+9678	BY	7.2	50.1318	10.328	175	172	2028-03-01	Schweinfurt	Üchtelhausen	V172-7.2MW
+9678	BY	7.2	50.1213	10.3377	175	172	2028-03-01	Schweinfurt	Üchtelhausen	V172-7.2MW
+9678	BY	7.2	50.1254	10.3382	175	172	2028-03-01	Schweinfurt	Üchtelhausen	V172-7.2MW
+9678	BY	7.2	50.1256	10.3186	175	172	2028-03-01	Schweinfurt	Üchtelhausen	V172-7.2MW
+9678	BY	7.2	50.1248	10.3312	175	172	2028-03-01	Schweinfurt	Üchtelhausen	V172-7.2MW
+9678	BY	4.5	50.0325	10.0485	164	149	2024-06-30	Schweinfurt	Wasserlosen	N149/4.0-4.5_TCS164
+
+9188	BY	5.56	48.1008	11.2204	160	160	2027-01-01	Starnberg	Wörthsee	E-160_EP5_E3_R1
+9188	BY	5.56	48.0977	11.2249	167	160	2027-01-01	Starnberg	Wörthsee	E-160_EP5_E3_R1
+9188	BY	5.56	48.1017	11.2128	167	160	2027-01-01	Starnberg	Wörthsee	E-160_EP5_E3_R1
+
+9278	BY	6	48.7679	12.5656	162	175	2026-12-30	Straubing-Bogen	Leiblfing	E-175_EP5E1
+
+9377	BY	4.26	49.8154	12.4646	90	116	2026-10-01	Tirschenreuth	Bärnau	Enercon_E-115_EP3_E4
+9377	BY	4.26	49.8151	12.4713	110	138	2026-10-01	Tirschenreuth	Bärnau	Enercon_E-138_EP3_E3
+9377	BY	2.3	49.8005	12.4604	77	82	2026-10-01	Tirschenreuth	Bärnau	Enercon_E-82_EP2_E2
+9377	BY	2.3	49.7983	12.4595	87	82	2026-10-01	Tirschenreuth	Bärnau	Enercon_E-82_EP2_E2
+
+9577	BY	7	49.0014	11.0786	174	175	2028-06-30	Weißenburg-Gunzenhausen	Burgsalach	E-175_EP5_E2
+9577	BY	7	48.9983	11.0955	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch	E-175_EP5_E2
+9577	BY	7	48.9939	11.093	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch	E-175_EP5_E2
+9577	BY	7	48.9961	11.078	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch	E-175_EP5_E2
+9577	BY	7	49.0103	11.0752	174	175	2028-06-30	Weißenburg-Gunzenhausen	Burgsalach	E-175_EP5_E2
+9577	BY	7	48.9857	11.1387	132	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch	E-175_EP5_E2
+9577	BY	7	48.9773	11.1402	132	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch	E-175_EP5_E2
+9577	BY	7	49.0028	11.0907	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch	E-175_EP5_E2
+9577	BY	7	48.9824	11.1464	132	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch	E-175_EP5_E2
+9577	BY	7	48.9775	11.1298	132	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch	E-175_EP5_E2
+9577	BY	7	48.9855	11.1259	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch	E-175_EP5_E2
+9577	BY	7	49.0152	11.0804	174	175	2028-06-30	Weißenburg-Gunzenhausen	Burgsalach	E-175_EP5_E2
+9577	BY	7	48.9659	11.1282	132	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch	E-175_EP5_E2
+9577	BY	7	49.0067	11.0808	174	175	2028-06-30	Weißenburg-Gunzenhausen	Burgsalach	E-175_EP5_E2
+9577	BY	7	48.9921	11.084	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch	E-175_EP5_E2
+9577	BY	4.26	48.9723	11.1271	131	138	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch	E-138_EP3
+9577	BY	4.26	49.0273	10.755	131	138	2026-04-01	Weißenburg-Gunzenhausen	Heidenheim	Enercon_E-138_EP3_E3
+9577	BY	4.26	49	10	131	138	2026-06-30	Weißenburg-Gunzenhausen	Heidenheim	Enercon_E138_EP3_E3
+9577	BY	4.2	48.9077	10.9337	160	138	2024-01-16	Weißenburg-Gunzenhausen	Langenaltheim	Enercon_E-138_EP3_E2
+
+9679	BY	7.2	49.7753	9.74061	175	172	2028-03-01	Würzburg	Uettingen	Vestas_V172
+9679	BY	7.2	49.7806	9.74633	175	172	2028-03-01	Würzburg	Uettingen	Vestas_V172
+9679	BY	7.2	49.777	9.74708	175	172	2028-03-01	Würzburg	Uettingen	Vestas_V172
+9679	BY	7.2	49.7657	10.0442	175	172	2026-01-01	Würzburg	Theilheim	V172-7.2
+9679	BY	7.2	49.7695	10.0408	175	172	2026-01-01	Würzburg	Theilheim	V172-7.2
+9679	BY	7.2	49.7733	9.74804	175	172	2028-03-01	Würzburg	Uettingen	Vestas_V172
+9679	BY	7.2	49.7694	10.0297	175	172	2026-01-01	Würzburg	Theilheim	V172-7.2
+9679	BY	7.2	49.9397	10.0188	175	172	2028-03-01	Würzburg	Hausen	Vestas_V172
+9679	BY	7.2	49.9353	9.99754	175	172	2028-03-01	Würzburg	Hausen	Vestas_V172
+9679	BY	7.2	49.9374	10.012	175	172	2028-03-01	Würzburg	Hausen	Vestas_V172
+9679	BY	7.2	49.9341	10.0065	175	172	2028-03-01	Würzburg	Hausen	Vestas_V172
+9679	BY	7	49.5139	9.93595	175	175	2027-04-01	Würzburg	Tauberrettersheim	Enercon_E175_EP_5_E2
+9679	BY	7	49.5149	9.94688	175	175	2027-04-01	Würzburg	Tauberrettersheim	Enercon_E175_EP_5_E2
+9679	BY	7	49.5116	9.94083	175	175	2027-04-01	Würzburg	Tauberrettersheim	Enercon_E175_EP_5_E2
+9679	BY	6.2	49.9384	9.99904	169	162	2028-03-01	Würzburg	Hausen	Vestas_V162
+9679	BY	6	49.8358	9.73538	162	175	2027-02-28	Würzburg	Greußenheim	E-175_EP5
+9679	BY	6	49.7339	9.69224	162	175	2026-05-29	Würzburg	Neubrunn	E-175_EP5
+9679	BY	6	49.7406	9.68945	162	175	2026-05-04	Würzburg	Neubrunn	E-175_EP5
+9679	BY	6	49.7377	9.69521	162	175	2026-05-18	Würzburg	Neubrunn	E-175_EP5
+9679	BY	6	49.8322	9.7295	162	175	2027-03-10	Würzburg	Greußenheim	E-175_EP5
+9679	BY	6	49.8298	9.73507	162	175	2027-03-30	Würzburg	Greußenheim	E-175_EP5
+9679	BY	6	49.8263	9.73741	162	175	2027-04-09	Würzburg	Greußenheim	E-175_EP5
+9679	BY	4.26	49.7363	9.71262	160	138	2025-11-12	Würzburg	Neubrunn	E-138_EP3_E3
+9679	BY	4.26	49.7417	9.75085	160	138	2025-11-17	Würzburg	Altertheim	E-138_EP3_E3
+9679	BY	4.26	49.7441	9.74703	160	138	2025-11-03	Würzburg	Altertheim	E-138_EP3_E3
+9679	BY	4.26	49.7099	10.0483	160	138	2025-10-16	Würzburg	Sommerhausen	E-138_EP3_E3
+9679	BY	4.26	49.7079	10.0533	160	138	2025-11-05	Würzburg	Sommerhausen	E-138_EP3_E3
+9679	BY	4.26	49.7386	9.75146	160	138	2025-11-06	Würzburg	Altertheim	E138_EP3
+9679	BY	4.26	49.7118	10.0564	160	138	2025-10-23	Würzburg	Sommerhausen	E-138_EP3_E3
+
