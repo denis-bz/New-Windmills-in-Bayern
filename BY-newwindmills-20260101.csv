@@ -1,12 +1,10 @@
 # Average windspeeds at the sites of 333 new windmills in Bayern  at 175m 
 # sites from https://www.marktstammdatenregister.de/MaStR 20260101 running since 2024 or planned
 # windspeeds from https://opendata.dwd.de/.../cosmo_rea6 hourly in 2014
-# written ~bz/py/wind/markt/new/newwindmills.py 2026-02-21 Feb 14:51 
+# written ~bz/py/wind/markt/new/newwindmills.py 2026-02-23 Feb 15:48 
 
 Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
-
 5.79	29	9371	BY	4.26	49.5114	11.9894	160	138	2027-12-31	Amberg-Sulzbach	Hirschau
-
 6.54	36	9571	BY	6	49.3118	10.4428	162	175	2028-02-01	Ansbach	Leutershausen
 6.54	36	9571	BY	5.56	49.3198	10.451	120	160	2028-02-01	Ansbach	Leutershausen
 6.52	35	9571	BY	5.56	49.3284	10.1348	120	160	2026-03-30	Ansbach	Insingen
@@ -17,15 +15,12 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 6.1	31	9571	BY	6.2	49.4077	10.7404	169	162	2024-11-22	Ansbach	Dietenhofen
 6.1	31	9571	BY	6.2	49.4015	10.7416	169	162	2024-11-21	Ansbach	Dietenhofen
 6.05	30	9571	BY	3.5	49.0122	10.4848	135	136	2026-02-27	Ansbach	Weiltingen
-
 5.58	27	9772	BY	6.8	48.5763	10.7708	179	175	2028-04-15	Augsburg	Kühlenthal
 5.58	27	9772	BY	6.8	48.5857	10.7753	179	175	2028-04-15	Augsburg	Ehingen
 5.42	25	9772	BY	6.8	48.5913	10.7792	179	175	2028-04-15	Augsburg	Ehingen
-
 5.59	27	9672	BY	7.2	50.1307	9.77791	175	172	2027-11-30	Bad_Kissingen	Wartmannsroth
 5.59	27	9672	BY	7.2	50.1357	9.77241	175	172	2027-11-30	Bad_Kissingen	Wartmannsroth
 5.59	27	9672	BY	7.2	50.1323	9.77298	175	172	2027-11-30	Bad_Kissingen	Wartmannsroth
-
 6.4	35	9471	BY	6	49.9214	11.0952	162	175	2026-12-30	Bamberg	Litzendorf
 5.91	30	9471	BY	7.2	49.8017	10.7139	175	172	2028-07-31	Bamberg	Burgebrach
 5.91	30	9471	BY	7.2	49.808	10.7161	175	172	2028-07-31	Bamberg	Burgebrach
@@ -41,18 +36,17 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 5.5	26	9471	BY	6.8	49.8654	10.7548	179	175	2026-06-30	Bamberg	Walsdorf
 5.5	26	9471	BY	6.8	49.8651	10.7443	179	175	2026-06-30	Bamberg	Burgebrach
 5.5	26	9471	BY	6.8	49.8615	10.7613	179	175	2026-06-30	Bamberg	Walsdorf
-
 6.38	34	9472	BY	7.2	49.7891	11.6105	199	172	2027-12-01	Bayreuth	Schnabelwaid
 6.31	34	9472	BY	7.2	49.7868	11.622	199	172	2027-12-01	Bayreuth	Schnabelwaid
-6.31	34	9472	BY	7.2	49.7851	11.6409	199	172	2027-12-01	Bayreuth	Schnabelwaid
-6.31	34	9472	BY	7.2	49.7895	11.6407	199	172	2027-12-01	Bayreuth	Schnabelwaid
-6.31	34	9472	BY	7.2	49.7991	11.6278	199	172	2027-12-01	Bayreuth	Schnabelwaid
 6.31	34	9472	BY	7.2	49.7909	11.6235	199	172	2027-12-01	Bayreuth	Schnabelwaid
+6.31	34	9472	BY	7.2	49.7895	11.6407	199	172	2027-12-01	Bayreuth	Schnabelwaid
 6.31	34	9472	BY	7.2	49.7932	11.6335	199	172	2027-12-01	Bayreuth	Schnabelwaid
-6.31	34	9472	BY	7.2	49.7827	11.6199	199	172	2027-12-01	Bayreuth	Schnabelwaid
-6.31	34	9472	BY	7.2	49.7951	11.6256	199	172	2027-12-01	Bayreuth	Schnabelwaid
-6.31	34	9472	BY	7.2	49.7808	11.6413	199	172	2027-12-01	Bayreuth	Schnabelwaid
 6.31	34	9472	BY	7.2	49.7976	11.636	199	172	2027-12-01	Bayreuth	Schnabelwaid
+6.31	34	9472	BY	7.2	49.7951	11.6256	199	172	2027-12-01	Bayreuth	Schnabelwaid
+6.31	34	9472	BY	7.2	49.7851	11.6409	199	172	2027-12-01	Bayreuth	Schnabelwaid
+6.31	34	9472	BY	7.2	49.7827	11.6199	199	172	2027-12-01	Bayreuth	Schnabelwaid
+6.31	34	9472	BY	7.2	49.7991	11.6278	199	172	2027-12-01	Bayreuth	Schnabelwaid
+6.31	34	9472	BY	7.2	49.7808	11.6413	199	172	2027-12-01	Bayreuth	Schnabelwaid
 6.11	32	9472	BY	7.2	49.8386	11.6638	175	172	2027-12-31	Bayreuth	Creußen
 6.11	32	9472	BY	7.2	49.8345	11.6584	175	172	2027-12-31	Bayreuth	Creußen
 6.06	32	9472	BY	5.56	49.8753	11.5242	167	160	2026-02-01	Bayreuth	Gesees
@@ -67,7 +61,6 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 6.04	31	9472	BY	6	49.6881	11.4865	162	175	2027-12-31	Bayreuth	Betzenstein
 6.04	31	9472	BY	6	49.7035	11.471	162	175	2027-12-31	Bayreuth	Betzenstein
 5.97	30	9472	BY	6	49.6789	11.4788	162	175	2027-12-31	Bayreuth	Betzenstein
-
 5.51	27	9473	BY	6.8	50.2977	10.8521	179	175	2028-08-01	Coburg	Bad_Rodach
 5.51	27	9473	BY	6.8	50.2996	10.8435	179	175	2028-08-01	Coburg	Bad_Rodach
 5.47	26	9473	BY	7.2	50.3689	10.9249	175	172	2026-06-08	Coburg	Lautertal
@@ -75,7 +68,6 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 5.47	26	9473	BY	7.2	50.3611	10.9294	175	172	2026-06-08	Coburg	Lautertal
 5.45	26	9473	BY	6.8	50.2895	10.8578	179	175	2028-08-01	Coburg	Bad_Rodach
 5.45	26	9473	BY	6.8	50.2933	10.8545	179	175	2028-08-01	Coburg	Bad_Rodach
-
 5.75	28	9174	BY	4.26	48.2772	11.1212	160	138	2028-03-15	Dachau	Pfaffenhofen
 5.69	28	9174	BY	4.26	48.3218	11.1434	131	138	2028-02-01	Dachau	Pfaffenhofen
 5.67	28	9174	BY	4.26	48.2925	11.1149	131	138	2028-03-01	Dachau	Pfaffenhofen
@@ -84,31 +76,24 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 5.6	27	9174	BY	7.2	48.3359	11.5129	175	172	2026-08-03	Dachau	Haimhausen
 5.6	27	9174	BY	7.2	48.3267	11.5099	175	172	2026-08-03	Dachau	Haimhausen
 5.6	27	9174	BY	7.2	48.3349	11.5028	175	172	2026-08-03	Dachau	Röhrmoos
-
 5.57	27	9773	BY	7	48.4895	10.5468	174	175	2028-08-01	Dillingen_a.d._Donau	Holzheim
 5.57	27	9773	BY	7	48.4912	10.5412	174	175	2028-08-01	Dillingen_a.d._Donau	Holzheim
 5.57	27	9773	BY	7	48.4962	10.5323	174	175	2028-08-01	Dillingen_a.d._Donau	Holzheim
 5.57	27	9773	BY	7	48.4861	10.5465	174	175	2028-06-01	Dillingen_a.d._Donau	Holzheim
 5.55	26	9773	BY	6.8	48.5783	10.7644	179	175	2028-04-15	Dillingen_a.d._Donau	Buttenwiesen
-
 5.91	30	9279	BY	5.56	48.5417	12.5588	167	160	2026-08-01	Dingolfing-Landau	Marklkofen
 5.62	28	9279	BY	6	48.7532	12.5232	162	175	2026-12-30	Dingolfing-Landau	Mengkofen
-
 5.63	27	9779	BY	7.2	48.5914	10.9227	175	172	2026-04-30	Donau-Ries	Münster
 5.63	27	9779	BY	7.2	48.6008	10.9253	175	172	2026-04-30	Donau-Ries	Holzheim
 5.63	27	9779	BY	7.2	48.596	10.9238	175	172	2026-04-30	Donau-Ries	Münster
 5.63	27	9779	BY	7.2	48.586	10.9194	175	172	2026-04-30	Donau-Ries	Münster
 5.47	26	9779	BY	7.2	48.6048	10.9228	175	172	2026-04-30	Donau-Ries	Holzheim
-
 5.4	25	9175	BY	5.56	48.0673	12.0262	167	160	2026-11-30	Ebersberg	Ebersberg
 5.33	25	9175	BY	4.26	48.0472	11.9123	167	138	2025-02-06	Ebersberg	Moosach
-
 5.85	29	9176	BY	6	48.9479	11.2543	162	175	2026-06-30	Eichstätt	Walting
-
 5.77	28	9562	BY	5.56	49.5394	10.939	140	160	2028-03-31	Erlangen	Erlangen
 5.75	28	9562	BY	5.56	49.5451	10.9464	140	160	2028-03-31	Erlangen	Erlangen
 5.75	28	9562	BY	5.56	49.5477	10.9415	140	160	2028-03-31	Erlangen	Erlangen
-
 6.07	31	9572	BY	7	49.5384	10.8431	162	175	2026-12-01	Erlangen-Höchstadt	Herzogenaurach
 6.07	31	9572	BY	7	49.5425	10.8522	162	175	2026-12-01	Erlangen-Höchstadt	Herzogenaurach
 6.04	31	9572	BY	7.2	49.627	10.7741	175	172	2026-01-01	Erlangen-Höchstadt	Weisendorf
@@ -127,7 +112,6 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 5.73	28	9572	BY	6.8	49.7687	10.7621	179	175	2027-12-31	Erlangen-Höchstadt	Mühlhausen
 5.7	28	9572	BY	6.8	49.7227	10.7755	179	175	2028-06-30	Erlangen-Höchstadt	Höchstadt
 5.7	28	9572	BY	6.8	49.7186	10.7759	179	175	2028-06-30	Erlangen-Höchstadt	Höchstadt
-
 5.93	30	9178	BY	6	48.5488	11.7855	162	175	2026-06-30	Freising	Nandlstadt
 5.93	30	9178	BY	6	48.552	11.7806	162	175	2026-06-30	Freising	Nandlstadt
 5.74	28	9178	BY	7	48.4408	11.5026	174	175	2027-12-01	Freising	Hohenkammer
@@ -135,7 +119,6 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 5.73	28	9178	BY	7.2	48.4488	11.5712	175	172	2028-09-01	Freising	Allershausen
 5.67	28	9178	BY	7	48.3904	11.5134	174	175	2027-07-02	Freising	Fahrenzhausen
 5.63	27	9178	BY	7	48.4022	11.5581	174	175	2027-10-31	Freising	Kranzberg
-
 5.77	28	9179	BY	6	48.2013	11.1937	162	175	2028-06-30	Fürstenfeldbruck	Maisach
 5.77	28	9179	BY	6	48.1947	11.165	162	175	2028-06-30	Fürstenfeldbruck	Mammendorf
 5.77	28	9179	BY	6	48.196	11.1787	162	175	2028-06-30	Fürstenfeldbruck	Mammendorf
@@ -148,51 +131,43 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 5.73	28	9179	BY	5.56	48.1478	11.1294	167	160	2028-07-17	Fürstenfeldbruck	Jesenwang
 5.67	28	9179	BY	5.56	48.2601	11.2359	167	160	2028-04-01	Fürstenfeldbruck	Maisach
 5.67	28	9179	BY	5.56	48.2624	11.2304	167	160	2027-08-09	Fürstenfeldbruck	Maisach
-
 5.75	28	9573	BY	6	49.548	10.9088	162	175	2028-03-31	Fürth	Obermichelbach
 5.75	28	9573	BY	6	49.5438	10.9062	162	175	2028-03-31	Fürth	Obermichelbach
-
 5.64	27	9774	BY	6	48.3964	10.5357	162	175	2027-12-01	Günzburg	Jettingen-Scheppach
 5.63	27	9774	BY	6	48.3975	10.5471	162	175	2027-12-01	Günzburg	Jettingen-Scheppach
-
 5.61	28	9674	BY	5.56	50.1049	10.8357	160	160	2025-06-24	Haßberge	Untermerzbach
-
 6.13	32	9273	BY	7	49.0051	11.7234	164	163	2027-12-01	Kelheim	Riedenburg
 6.13	32	9273	BY	7	49.0103	11.7225	164	163	2027-12-01	Kelheim	Riedenburg
 5.92	30	9273	BY	7	49.0093	11.7061	164	163	2027-12-01	Kelheim	Riedenburg
 5.92	30	9273	BY	7	49.0133	11.712	164	163	2027-12-01	Kelheim	Riedenburg
 5.36	25	9273	BY	4.26	48.8626	11.8059	110	138	2024-12-31	Kelheim	Kelheim
-
 5.91	30	9675	BY	7.2	49.7927	10.1248	175	172	2026-01-01	Kitzingen	Dettelbach
 5.91	30	9675	BY	7.2	49.7904	10.1321	175	172	2026-01-01	Kitzingen	Dettelbach
 5.91	30	9675	BY	7.2	49.7964	10.1335	175	172	2026-01-01	Kitzingen	Dettelbach
 5.91	30	9675	BY	7.2	49.7882	10.1206	175	172	2026-01-01	Kitzingen	Dettelbach
-
-6.78	37	9476	BY	7	50.4575	11.3647	162	175	2027-09-01	Kronach	Ludwigsstadt
 6.78	37	9476	BY	7	50.4655	11.3475	162	175	2027-09-01	Kronach	Ludwigsstadt
 6.78	37	9476	BY	7	50.4542	11.3525	162	175	2027-09-01	Kronach	Ludwigsstadt
 6.78	37	9476	BY	7	50.465	11.3561	162	175	2027-09-01	Kronach	Ludwigsstadt
 6.78	37	9476	BY	7	50.4622	11.3663	162	175	2027-09-01	Kronach	Ludwigsstadt
 6.78	37	9476	BY	7	50.453	11.3621	162	175	2027-09-01	Kronach	Ludwigsstadt
-6.72	37	9476	BY	7	50.4586	11.3274	162	175	2027-09-01	Kronach	Steinbach
+6.78	37	9476	BY	7	50.4575	11.3647	162	175	2027-09-01	Kronach	Ludwigsstadt
+6.72	37	9476	BY	7	50.4561	11.3447	162	175	2027-09-01	Kronach	Ludwigsstadt
+6.72	37	9476	BY	7	50.4656	11.3227	162	175	2027-09-01	Kronach	Steinbach
 6.72	37	9476	BY	7	50.4742	11.3294	162	175	2027-09-01	Kronach	Ludwigsstadt
 6.72	37	9476	BY	7	50.4783	11.3157	162	175	2027-09-01	Kronach	Ludwigsstadt
 6.72	37	9476	BY	7	50.4814	11.3217	162	175	2027-09-01	Kronach	Ludwigsstadt
-6.72	37	9476	BY	7	50.4838	11.309	162	175	2027-09-01	Kronach	Ludwigsstadt
-6.72	37	9476	BY	7	50.4656	11.3227	162	175	2027-09-01	Kronach	Steinbach
-6.72	37	9476	BY	7	50.4561	11.3447	162	175	2027-09-01	Kronach	Ludwigsstadt
 6.72	37	9476	BY	7	50.4627	11.3113	162	175	2027-09-01	Kronach	Steinbach
+6.72	37	9476	BY	7	50.4838	11.309	162	175	2027-09-01	Kronach	Ludwigsstadt
+6.72	37	9476	BY	7	50.4586	11.3274	162	175	2027-09-01	Kronach	Steinbach
 6.72	37	9476	BY	7	50.4689	11.34	162	175	2027-09-01	Kronach	Ludwigsstadt
 5.95	31	9476	BY	6.8	50.1913	11.4255	179	175	2026-12-31	Kronach	Weißenbrunn
 5.95	31	9476	BY	6.8	50.1864	11.4245	179	175	2026-12-31	Kronach	Weißenbrunn
 5.95	31	9476	BY	6.8	50.1825	11.4254	179	175	2026-12-31	Kronach	Weißenbrunn
 5.95	31	9476	BY	6.8	50.1849	11.4317	179	175	2026-12-31	Kronach	Weißenbrunn
 5.95	31	9476	BY	6.8	50.195	11.4212	179	175	2026-12-31	Kronach	Weißenbrunn
-
 5.71	28	9181	BY	5.56	47.8908	10.8004	167	160	2024-04-11	Landsberg_am_Lech	Fuchstal
 5.71	28	9181	BY	5.56	47.8948	10.8015	167	160	2024-03-13	Landsberg_am_Lech	Fuchstal
 5.71	28	9181	BY	5.56	47.886	10.8001	167	160	2024-02-29	Landsberg_am_Lech	Fuchstal
-
 5.92	30	9677	BY	7.2	49.8966	9.89877	175	172	2027-09-01	Main-Spessart	Retzstadt
 5.92	30	9677	BY	7.2	49.8969	9.88471	175	172	2027-09-01	Main-Spessart	Retzstadt
 5.92	30	9677	BY	7.2	49.8982	9.89205	175	172	2027-10-01	Main-Spessart	Retzstadt
@@ -202,21 +177,17 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 5.82	29	9677	BY	7.2	50.0122	9.91339	175	172	2026-11-30	Main-Spessart	Eußenheim
 5.52	27	9677	BY	7	49.8242	9.67034	164	163	2027-11-07	Main-Spessart	Erlenbach
 5.52	27	9677	BY	7	49.8228	9.67503	164	163	2027-11-07	Main-Spessart	Erlenbach
-
 5.34	25	9182	BY	5.56	47.9374	11.697	167	160	2025-07-18	Miesbach	Otterfing
-
 5.28	25	9676	BY	6.2	49.7568	9.1254	169	162	2028-09-18	Miltenberg	Wörth
 5.28	25	9676	BY	6.2	49.7752	9.13954	169	162	2028-09-18	Miltenberg	Wörth
 5.28	25	9676	BY	6.2	49.7632	9.12094	169	162	2028-09-18	Miltenberg	Wörth
 5.28	25	9676	BY	6.2	49.7593	9.12973	169	162	2028-09-18	Miltenberg	Wörth
 5.28	25	9676	BY	6.2	49.771	9.12652	169	162	2028-09-18	Miltenberg	Wörth
-
 5.28	25	9183	BY	6	48.1301	12.4154	162	175	2027-12-31	Mühldorf_a._Inn	Taufkirchen
 5.28	25	9183	BY	6	48.1278	12.4089	162	175	2027-12-31	Mühldorf_a._Inn	Taufkirchen
 5.13	24	9183	BY	6	48.1385	12.4217	162	175	2027-12-31	Mühldorf_a._Inn	Taufkirchen
 5.13	24	9183	BY	6	48.134	12.42	162	175	2027-12-31	Mühldorf_a._Inn	Taufkirchen
 5.12	23	9183	BY	6	48.1227	12.4012	162	175	2027-12-31	Mühldorf_a._Inn	Taufkirchen
-
 5.38	25	9184	BY	5.56	48.0631	11.4421	167	160	2026-12-15	München	Neuried
 5.38	25	9184	BY	5.56	48.0418	11.447	167	160	2026-12-15	München	Neuried
 5.38	25	9184	BY	5.56	48.0459	11.4402	167	160	2026-12-15	München	Neuried
@@ -234,11 +205,9 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 5.31	25	9184	BY	7.2	48.0928	11.7366	175	172	2027-10-01	München	Grasbrunn
 5.31	25	9184	BY	7.2	48.0892	11.724	175	172	2027-10-01	München	Grasbrunn
 5.31	25	9184	BY	7.2	48.0894	11.73	175	172	2027-10-01	München	Grasbrunn
-
 5.58	27	9185	BY	5.7	48.5509	11.141	164	163	2026-12-01	Neuburg-Schrobenhausen	Schrobenhausen
 5.58	27	9185	BY	5.7	48.5501	11.1509	164	163	2026-12-01	Neuburg-Schrobenhausen	Schrobenhausen
 5.58	27	9185	BY	5.7	48.555	11.1469	164	163	2026-12-01	Neuburg-Schrobenhausen	Schrobenhausen
-
 6.46	35	9373	BY	7.2	49.3424	11.6262	175	172	2027-10-31	Neumarkt_i.d._OPf.	Lauterhofen
 6.02	31	9373	BY	7.2	49.2125	11.4881	199	172	2027-05-31	Neumarkt_i.d._OPf.	Sengenthal
 5.94	30	9373	BY	4.2	49.4263	11.4576	149	136	2025-12-31	Neumarkt_i.d._OPf.	Lauterhofen
@@ -246,22 +215,21 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 5.87	30	9373	BY	6.8	49.2711	11.4158	179	175	2027-12-01	Neumarkt_i.d._OPf.	Berngau
 5.87	30	9373	BY	6.8	49.2742	11.4086	179	175	2027-12-01	Neumarkt_i.d._OPf.	Berngau
 5.87	30	9373	BY	6.8	49.2701	11.4037	179	175	2027-12-01	Neumarkt_i.d._OPf.	Berngau
-
-6.49	35	9575	BY	5.56	49.7455	10.4483	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
-6.49	35	9575	BY	5.56	49.7483	10.4391	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
-6.49	35	9575	BY	5.56	49.7422	10.4355	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
 6.49	35	9575	BY	5.56	49.7373	10.4682	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
-6.47	35	9575	BY	5.56	49.7287	10.4762	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
-6.47	35	9575	BY	6.8	49.7239	10.4723	162	175	2028-11-19	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach
-6.47	35	9575	BY	5.56	49.7306	10.4663	166	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
-6.47	35	9575	BY	6.8	49.7293	10.4923	162	175	2028-11-19	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach
+6.49	35	9575	BY	5.56	49.7422	10.4355	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
+6.49	35	9575	BY	5.56	49.7483	10.4391	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
+6.49	35	9575	BY	5.56	49.7455	10.4483	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
 6.47	35	9575	BY	6.8	49.7191	10.469	162	175	2028-11-19	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
 6.47	35	9575	BY	6.8	49.723	10.4839	162	175	2028-11-19	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
+6.47	35	9575	BY	6.8	49.7293	10.4923	162	175	2028-11-19	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach
+6.47	35	9575	BY	6.8	49.7239	10.4723	162	175	2028-11-19	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach
+6.47	35	9575	BY	5.56	49.7287	10.4762	167	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
+6.47	35	9575	BY	5.56	49.7306	10.4663	166	160	2027-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Oberscheinfeld
 6.41	34	9575	BY	5.56	49.6681	10.4228	167	160	2027-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Scheinfeld
 6.41	34	9575	BY	5.56	49.6724	10.4213	167	160	2028-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Scheinfeld
 6.39	34	9575	BY	3.5	49.4915	10.6005	161	137	2025-11-30	Neustadt_a.d._Aisch-Bad_Windsheim	Markt_Erlbach
-6.39	34	9575	BY	3.5	49.4871	10.6011	161	137	2025-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Trautskirchen
 6.39	34	9575	BY	7.2	49.7477	10.5841	175	172	2027-12-31	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach
+6.39	34	9575	BY	3.5	49.4871	10.6011	161	137	2025-03-31	Neustadt_a.d._Aisch-Bad_Windsheim	Trautskirchen
 6.36	34	9575	BY	5.56	49.6777	10.4079	167	160	2028-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Scheinfeld
 6.36	34	9575	BY	5.56	49.6777	10.3986	167	160	2027-10-01	Neustadt_a.d._Aisch-Bad_Windsheim	Markt_Bibart
 6.34	34	9575	BY	7.2	49.7434	10.5855	175	172	2027-12-31	Neustadt_a.d._Aisch-Bad_Windsheim	Burghaslach
@@ -277,42 +245,35 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 6.33	34	9575	BY	7	49.6651	10.5138	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Markt_Taschendorf
 6.3	33	9575	BY	6.2	49.4345	10.6923	169	162	2024-11-25	Neustadt_a.d._Aisch-Bad_Windsheim	Neuhof
 6.3	33	9575	BY	6.2	49.4391	10.6951	169	162	2024-11-20	Neustadt_a.d._Aisch-Bad_Windsheim	Neuhof
-6.28	33	9575	BY	6	49.5664	10.6904	162	175	2027-06-30	Neustadt_a.d._Aisch-Bad_Windsheim	Emskirchen
 6.28	33	9575	BY	6	49.5689	10.6838	162	175	2027-06-30	Neustadt_a.d._Aisch-Bad_Windsheim	Emskirchen
 6.28	33	9575	BY	6	49.5726	10.6811	162	175	2027-06-30	Neustadt_a.d._Aisch-Bad_Windsheim	Neustadt
+6.28	33	9575	BY	6	49.5664	10.6904	162	175	2027-06-30	Neustadt_a.d._Aisch-Bad_Windsheim	Emskirchen
+6.2	32	9575	BY	7	49.6372	10.5236	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Baudenbach
+6.2	32	9575	BY	7	49.6567	10.525	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Scheinfeld
 6.2	32	9575	BY	7	49.6458	10.5208	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Baudenbach
 6.2	32	9575	BY	7	49.6406	10.5332	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Baudenbach
-6.2	32	9575	BY	7	49.6372	10.5236	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Baudenbach
 6.2	32	9575	BY	7	49.6459	10.5304	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Baudenbach
-6.2	32	9575	BY	7	49.6567	10.525	174	175	2029-05-31	Neustadt_a.d._Aisch-Bad_Windsheim	Scheinfeld
-
-6.24	33	9374	BY	6.8	49.5808	12.2467	179	175	2028-09-30	Neustadt_a.d._Waldnaab	Leuchtenberg
 6.24	33	9374	BY	6.8	49.583	12.2374	179	175	2028-09-30	Neustadt_a.d._Waldnaab	Leuchtenberg
+6.24	33	9374	BY	6.8	49.5808	12.2467	179	175	2028-09-30	Neustadt_a.d._Waldnaab	Leuchtenberg
 5.98	31	9374	BY	7.2	49.5638	12.319	175	172	2027-05-31	Neustadt_a.d._Waldnaab	Tännesberg
 5.98	31	9374	BY	7.2	49.5587	12.3178	175	172	2027-05-31	Neustadt_a.d._Waldnaab	Tännesberg
 5.98	31	9374	BY	7.2	49.5525	12.3195	175	172	2027-05-31	Neustadt_a.d._Waldnaab	Tännesberg
-
 5.94	30	9574	BY	6.2	49.4268	11.4659	169	162	2025-06-16	Nürnberger_Land	Happurg
 5.94	30	9574	BY	6	49.4317	11.4602	169	162	2025-06-12	Nürnberger_Land	Happurg
-
 5.69	28	9186	BY	4.26	48.5484	11.3603	160	138	2028-04-01	Pfaffenhofen_a.d._Ilm	Hohenwart
 5.69	28	9186	BY	4.2	48.532	11.5498	160	138	2024-12-24	Pfaffenhofen_a.d._Ilm	Pfaffenhofen
 5.69	28	9186	BY	4.2	48.5314	11.5551	160	138	2025-06-13	Pfaffenhofen_a.d._Ilm	Pfaffenhofen
 5.69	28	9186	BY	4.2	48.533	11.5592	160	138	2025-02-07	Pfaffenhofen_a.d._Ilm	Pfaffenhofen
 5.61	27	9186	BY	5.56	48.5193	11.3264	160	160	2028-04-03	Pfaffenhofen_a.d._Ilm	Gerolsbach
-
 5.49	26	9673	BY	2.4	50.3551	10.3745	141	117	2026-09-01	Rhön-Grabfeld	Hollstadt
 5.49	26	9673	BY	2.4	50.347	10.3383	141	117	2026-09-01	Rhön-Grabfeld	Hollstadt
 5.49	26	9673	BY	2.4	50.3441	10.3459	141	117	2026-09-01	Rhön-Grabfeld	Wülfershausen
-
 4.93	22	9187	BY	5.56	47.9269	11.8758	167	160	2025-01-30	Rosenheim	Feldkirchen-Westerham
-
 5.98	31	9376	BY	7.2	49.526	12.2979	175	172	2027-12-31	Schwandorf	Trausnitz
 5.98	31	9376	BY	7.2	49.5352	12.2931	175	172	2027-12-31	Schwandorf	Trausnitz
 5.61	27	9376	BY	7	49.5594	12.2316	164	163	2028-09-30	Schwandorf	Wernberg-Köblitz
 5.39	25	9376	BY	7.2	49.2109	12.144	175	172	2028-06-30	Schwandorf	Nittenau
 5.39	25	9376	BY	7.2	49.2104	12.1522	175	172	2028-06-30	Schwandorf	Nittenau
-
 6.13	32	9678	BY	7.2	50.1361	10.3228	175	172	2028-03-01	Schweinfurt	Üchtelhausen
 6.13	32	9678	BY	7.2	50.1254	10.3382	175	172	2028-03-01	Schweinfurt	Üchtelhausen
 6.13	32	9678	BY	7.2	50.1318	10.328	175	172	2028-03-01	Schweinfurt	Üchtelhausen
@@ -320,41 +281,36 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 6.13	32	9678	BY	7.2	50.1213	10.3377	175	172	2028-03-01	Schweinfurt	Üchtelhausen
 6.13	32	9678	BY	7.2	50.1248	10.3312	175	172	2028-03-01	Schweinfurt	Üchtelhausen
 5.86	30	9678	BY	4.5	50.0325	10.0485	164	149	2024-06-30	Schweinfurt	Wasserlosen
-
 5.44	26	9188	BY	5.56	48.1017	11.2128	167	160	2027-01-01	Starnberg	Wörthsee
 5.44	26	9188	BY	5.56	48.0977	11.2249	167	160	2027-01-01	Starnberg	Wörthsee
 5.44	26	9188	BY	5.56	48.1008	11.2204	160	160	2027-01-01	Starnberg	Wörthsee
-
 5.62	28	9278	BY	6	48.7679	12.5656	162	175	2026-12-30	Straubing-Bogen	Leiblfing
-
 6.83	39	9377	BY	2.3	49.7983	12.4595	87	82	2026-10-01	Tirschenreuth	Bärnau
 6.83	39	9377	BY	2.3	49.8005	12.4604	77	82	2026-10-01	Tirschenreuth	Bärnau
 6.83	39	9377	BY	4.26	49.8151	12.4713	110	138	2026-10-01	Tirschenreuth	Bärnau
 6.83	39	9377	BY	4.26	49.8154	12.4646	90	116	2026-10-01	Tirschenreuth	Bärnau
-
-6.48	35	9577	BY	4.26	49	10	131	138	2026-06-30	Weißenburg-Gunzenhausen	Heidenheim
 6.46	35	9577	BY	7	48.9857	11.1387	132	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
 6.46	35	9577	BY	7	48.9773	11.1402	132	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
 6.46	35	9577	BY	7	48.9824	11.1464	132	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
 6.46	35	9577	BY	7	48.9775	11.1298	132	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
+6.45	35	9577	BY	7	49.0103	11.0752	174	175	2028-06-30	Weißenburg-Gunzenhausen	Burgsalach
 6.45	35	9577	BY	7	49.0067	11.0808	174	175	2028-06-30	Weißenburg-Gunzenhausen	Burgsalach
 6.45	35	9577	BY	7	49.0028	11.0907	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
-6.45	35	9577	BY	7	49.0103	11.0752	174	175	2028-06-30	Weißenburg-Gunzenhausen	Burgsalach
 6.45	35	9577	BY	7	49.0014	11.0786	174	175	2028-06-30	Weißenburg-Gunzenhausen	Burgsalach
 6.45	35	9577	BY	7	49.0152	11.0804	174	175	2028-06-30	Weißenburg-Gunzenhausen	Burgsalach
-6.42	35	9577	BY	7	48.9961	11.078	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
+6.42	35	9577	BY	7	48.9983	11.0955	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
 6.42	35	9577	BY	4.26	48.9723	11.1271	131	138	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
 6.42	35	9577	BY	7	48.9921	11.084	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
 6.42	35	9577	BY	7	48.9659	11.1282	132	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
 6.42	35	9577	BY	7	48.9855	11.1259	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
-6.42	35	9577	BY	7	48.9983	11.0955	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
 6.42	35	9577	BY	7	48.9939	11.093	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
+6.42	35	9577	BY	7	48.9961	11.078	174	175	2028-06-30	Weißenburg-Gunzenhausen	Raitenbuch
 6.25	33	9577	BY	4.26	49.0273	10.755	131	138	2026-04-01	Weißenburg-Gunzenhausen	Heidenheim
+6.25	33	9577	BY	4.26	49.017	10.75	131	138	2026-06-30	Weißenburg-Gunzenhausen	Heidenheim
 6.09	31	9577	BY	4.2	48.9077	10.9337	160	138	2024-01-16	Weißenburg-Gunzenhausen	Langenaltheim
-
 6.27	33	9679	BY	7	49.5139	9.93595	175	175	2027-04-01	Würzburg	Tauberrettersheim
-6.27	33	9679	BY	7	49.5149	9.94688	175	175	2027-04-01	Würzburg	Tauberrettersheim
 6.27	33	9679	BY	7	49.5116	9.94083	175	175	2027-04-01	Würzburg	Tauberrettersheim
+6.27	33	9679	BY	7	49.5149	9.94688	175	175	2027-04-01	Würzburg	Tauberrettersheim
 6.04	31	9679	BY	7.2	49.9397	10.0188	175	172	2028-03-01	Würzburg	Hausen
 6.04	31	9679	BY	7.2	49.9374	10.012	175	172	2028-03-01	Würzburg	Hausen
 6.04	31	9679	BY	6.2	49.9384	9.99904	169	162	2028-03-01	Würzburg	Hausen
@@ -381,4 +337,3 @@ Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 5.78	29	9679	BY	6	49.8358	9.73538	162	175	2027-02-28	Würzburg	Greußenheim
 5.69	28	9679	BY	6	49.7406	9.68945	162	175	2026-05-04	Würzburg	Neubrunn
 5.69	28	9679	BY	6	49.7377	9.69521	162	175	2026-05-18	Würzburg	Neubrunn
-
