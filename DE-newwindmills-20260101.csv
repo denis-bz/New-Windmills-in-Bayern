@@ -1,7 +1,5 @@
-# Average windspeeds at the sites of 8263 new windmills in Deutschland  at 175m 
-# sites from https://www.marktstammdatenregister.de/MaStR 20260101 running since 2024 or planned
-# windspeeds from https://opendata.dwd.de/.../cosmo_rea6 hourly in 2014
-# written ~bz/py/wind/markt/new/newwindmills.py 2026-02-23 Feb 15:48 
+# from DE-newwindmills-20260101.csv  drop  "Type"
+# written /opt/local/mac/bz/wind/git/pd-dropcols.py 2026-03-02 Mar 18:59 
 
 Cosmowind175	Cosmocap175	AGS	State	MW	Lat	Lon	Thi	Rotor	Date	Lkr	Place
 7.73	48	12060	BB	7.2	52.6534	13.66	169	162	2027-09-30	Barnim	Bernau
